@@ -1,5 +1,5 @@
 # Excel-SalesAnalytics
-<img src="https://thumbs.dreamstime.com/b/market-segment-focus-group-audience-analysis-tiny-people-research-profile-potential-client-magnifier-divide-consumers-322373661.jpg" height="500" width="500">
+<img src="https://thumbs.dreamstime.com/b/market-segment-focus-group-audience-analysis-tiny-people-research-profile-potential-client-magnifier-divide-consumers-322373661.jpg" height="500" width="1000">
 <h1>Project Aim</h1>
 <p>This project aims to create a Market Performance report v/s Target for net sales for year 2020 and 2021 for AtliQ Hardwares </p>
 <h2>Data</h2>
