@@ -13,5 +13,6 @@
   <li>Loading the modelled data back to Pivot Table</li>
   <li>Creating DAX measures for net sales of 2019,2020 and 2021</li>
   <li>Creating DAX measures for Target for 2021</li>
+  <li>Add those measures and applied conditional formatting to highlight significant differences</li>
 </ul>
 
